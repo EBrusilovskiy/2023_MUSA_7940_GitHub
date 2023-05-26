@@ -1,10 +1,11 @@
 # 2023_MUSA_7940_GitHub
 
-MUSA 7940 – Statistics Boot Camp – Summer 2023
+**MUSA 7940 – Statistics Boot Camp – Summer 2023
 
-Instructor: Eugene Brusilovskiy (he/him/his)
+**Instructor: Eugene Brusilovskiy (he/him/his)
 
-Course Overview
+**Course Overview
+
 The goal of this course is to give students an introduction to several basic but essential concepts in probability and statistics. Topics covered will include probability, random variables, statistics and their distributions, confidence intervals, hypothesis testing, and t-tests.
 Because students typically come from different academic backgrounds, it is expected that there will be a rather wide spectrum of mathematical knowledge and experience among class participants. To accommodate students who have not recently taken a math class, one of the first lectures will focus on reviewing basic mathematical concepts that would be necessary for this course and the courses they’ll take in the fall. Finally – and perhaps most importantly – this course will aim to prepare students for the statistics courses they will take in the fall semester.
 
