@@ -31,8 +31,8 @@ Date  | Topic
 --- | ---
 8/14/2023	 | Introductions. Course Logistics. Introductions to R Programming
 8/15/2023	| Review of algebra and other relevant mathematical topics. Probability.
-8/16/2022, 8/17/2022, 8/21/2022, 8/22/2022	| Probability. Distributions. Central Limit Theorem. Statistics. Confidence Intervals. Hypothesis Testing. P-Values
-8/23/2022, 8/24/2022   | 	Introduction to basic statistical tests: Independent Samples and Paired T-Tests, Correlations
+8/16/2023, 8/17/2023, 8/21/2023, 8/22/2023	| Probability. Distributions. Central Limit Theorem. Statistics. Confidence Intervals. Hypothesis Testing. P-Values
+8/23/2023, 8/24/2023   | 	Introduction to basic statistical tests: Independent Samples and Paired T-Tests, Correlations
 
 #### Video Recording of Lectures
 To facilitate access for all class members, these sessions, including your participation, are being recorded and the recordings will be made available to the class, for the duration of the semester. These recordings are made available solely for your personal, educational use and may not be shared, copied or redistributed without the permission of Penn and the instructor. Note also that you are NOT allowed to record class sessions yourselves.
